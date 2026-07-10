@@ -170,7 +170,11 @@ Technologies verified in the application repositories:
 | Horizontal scaling | Container orchestration beyond single-VM deployment |
 
 ---
+## Project Ownership
 
+This platform was designed and implemented by **Maurice Mooklall** as the sole engineer responsible for requirements engineering, system architecture, software development, verification and validation, deployment, and operational design for the Version 1 platform.
+
+---
 ## Related Repositories
 
 - [592 Industries Backend](https://github.com/592-Industries/592industries-backend)
