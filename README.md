@@ -175,11 +175,5 @@ Technologies verified in the application repositories:
 This platform was designed and implemented by **Maurice Mooklall** as the sole engineer responsible for requirements engineering, system architecture, software development, verification and validation, deployment, and operational design for the Version 1 platform.
 
 ---
-## Related Repositories
-
-- [592 Industries Backend](https://github.com/592-Industries/592industries-backend)
-- [592 Industries Frontend](https://github.com/592-Industries/592industries-frontend)
-
----
 
 *This case study documents the Version 1 platform release (June 2026). It is intended for technical recruiters, product managers, engineers, and engineering collaborators evaluating systems design and product ownership capabilities.*
